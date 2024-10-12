@@ -31,5 +31,5 @@ yarn-error.log
 .env
 logs/
 .plantuml
-/uploads
-/src/config
+uploads/
+src/config
