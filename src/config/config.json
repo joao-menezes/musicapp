@@ -1,0 +1,9 @@
+{
+    "development": {
+      "username": "root",
+      "password": "Gj22089310@",
+      "database": "musicapp",
+      "host": "127.0.0.1",
+      "dialect": "mysql"
+    }
+}
