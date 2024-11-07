@@ -29,7 +29,7 @@ yarn-error.log
 .history/*
 
 .env
-logs/
+/src/logs
 .plantuml
 /uploads
 /src/config
